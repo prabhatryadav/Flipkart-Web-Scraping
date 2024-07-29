@@ -1,8 +1,8 @@
-Flipkart Web Scraping
+# Flipkart Web Scraping
 
 This project is a web scraper designed to monitor the price of a specific product on Flipkart and notify the user when the price drops below a certain threshold.
 
-Project Overview
+# Project Overview
 
 The Flipkart Web Scraper performs the following tasks:
 
